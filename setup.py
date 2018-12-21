@@ -12,7 +12,7 @@ with open(os.path.join(heredir, "requirements.txt")) as req_file:
 
 setup(
     name='django-auth-http-basic',
-    version='20180508.0',
+    version='20181221.0',
     description="Django authentication based based on HTTP basic authentication",
     long_description=README,
     url="https://github.com/t73fde/django-auth-http-basic",
