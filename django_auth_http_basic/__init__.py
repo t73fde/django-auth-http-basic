@@ -2,7 +2,7 @@
 
 """Simple authenticaton backend based on HTTP basic authentication.
 
-:copyright: (c) 2016 by Detlef Stern
+:copyright: (c) 2016-2019 by Detlef Stern
 :license: Apache 2.0, see LICENSE
 """
 

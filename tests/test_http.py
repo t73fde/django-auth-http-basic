@@ -2,7 +2,7 @@
 
 """Test HTTP basic auth method.
 
-:copyright: (c) 2016 by Detlef Stern
+:copyright: (c) 2016-2019 by Detlef Stern
 :license: Apache 2.0, see LICENSE
 """
 

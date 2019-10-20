@@ -12,7 +12,7 @@ with open(os.path.join(heredir, "requirements.txt")) as req_file:
 
 setup(
     name='django-auth-http-basic',
-    version='20181221.0',
+    version='20191020.0',
     description="Django authentication based based on HTTP basic authentication",
     long_description=README,
     url="https://github.com/t73fde/django-auth-http-basic",
@@ -26,6 +26,7 @@ setup(
         "Intended Audience :: Developers",
         "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7",
         "Topic :: Internet :: WWW/HTTP",
         "Topic :: System :: Systems Administration :: Authentication/Directory",
     ],
